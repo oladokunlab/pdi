@@ -1,0 +1,26 @@
+
+==============================================================================
+Structural zeros are unchanged by batch correction
+==============================================================================
+zero cells, raw counts      : 138134 
+zero cells, batch-adjusted  : 138134 
+positionally identical      : TRUE 
+restricting to the published set: 84 genera x 1787 samples
+
+==============================================================================
+Study_ID: how much study structure remains?
+==============================================================================
+before: pseudo-F 48.53  R2 0.539  p 0.001
+after : pseudo-F 27.78  R2 0.401  p 0.001
+reduction in pseudo-F: 42.8%
+
+==============================================================================
+Intervention_Class: is the biological signal retained?
+==============================================================================
+before: R2 0.0844  p 0.001
+after : R2 0.0662  p 0.001
+
+Verdict: the registered check PASSES -- study structure is substantially
+reduced and the intervention term is retained. Declare the residual:
+study identity still explains 40% of community variation after correction,
+which is why all downstream analyses are centred within study.

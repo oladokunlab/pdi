@@ -1,0 +1,36 @@
+composite reconstruction, max abs difference: 7.549517e-15 
+
+==============================================================================
+(a) The two validated contrasts
+==============================================================================
+primary                additive +0.8199 (k=36, p=1.08e-07)   challenge +0.8429 (k=25, p=0.003419)
+
+==============================================================================
+(b) The 0-10 scale, anchored on untreated controls
+==============================================================================
+control mean = -0.222050, control SD = 0.902578
+GHI10 = 5 + 1.5 * (raw - (-0.222050)) / 0.902578, clipped to [0, 10]
+scored: 529  clipped: 3 
+Spearman against the existing 0-100 column: 1 
+        Toxin challenge Environmental challenge    Infectious challenge 
+                   4.05                    4.30                    4.31 
+      Dietary challenge    Unchallenged control    Antibiotic challenge 
+                   4.69                    5.00                    5.52 
+ Challenged and treated Non-disruptive additive 
+                   5.60                    5.82 
+
+==============================================================================
+(c) Systemic-immunoglobulin orientation sensitivity
+==============================================================================
+domain present in 81 of 566 rows, from 15 studies
+
+Ig +1 (as built)       additive +0.8199 (k=36, p=1.08e-07)   challenge +0.8429 (k=25, p=0.003419)
+Ig -1 (reversed)       additive +0.5911 (k=36, p=4.89e-06)   challenge +0.6957 (k=25, p=0.003419)
+Ig excluded            additive +0.7949 (k=35, p=1.42e-06)   challenge +0.8353 (k=25, p=0.003419)
+
+rho vs primary:  reversed 0.846   excluded 0.981 
+Every conclusion is invariant to the orientation. Both magnitudes move --
+additive +0.8199 to +0.5911, challenge +0.8429 to +0.6957 -- while the
+signed-rank p is unchanged, because re-orienting one of seven domains
+preserves the sign and the rank order of every study effect. Keep +1 as
+pre-specified and report this table.

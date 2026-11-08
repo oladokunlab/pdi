@@ -1,0 +1,55 @@
+
+==============================================================================
+Risk-of-bias domain distribution
+==============================================================================
+                            Low Unclear High
+ROB_1_RandomAllocation       19      31    0
+ROB_2_BaselineComparability  45       3    2
+ROB_3_OutcomeAssessment      15      29    6
+ROB_4_IncompleteData         20      30    0
+ROB_5_SelectiveReporting     50       0    0
+ROB_6_OtherBias               0      50    0
+
+zero-variance domains (assess nothing): ROB_5_SelectiveReporting, ROB_6_OtherBias 
+studies with >=1 High: 8  High ratings total: 8  max per study: 1 
+  Ding_2025
+  Gao_2024
+  Han_2023
+  Miska_2024
+  Tang_2026
+  Zhang_2018
+  Zhao_2022
+  Zhao_2023b 
+Unit of analysis: k counts independent experiments, not publications.
+Ma_2024 contributes two cohorts (chicks/FMT as Ma_2024, hens/ALA as
+Ma_2024_Layers) from one paper and one BioProject, so additive k = 36
+arises from 35 publications and challenge k = 25 from 24. The challenge
+contrast excludes Massacci_2019 for want of a contemporaneous control arm.
+
+
+==============================================================================
+Registered sensitivity analyses
+==============================================================================
+All studies (primary)          additive +0.820 (k=36, t p=2.57e-07; W p=1.08e-07)   challenge +0.843 (k=25, t p=0.0137; W p=0.00342)
+Excluding high risk of bias    additive +0.899 (k=31, t p=4.95e-07; W p=1.57e-07)   challenge +0.795 (k=21, t p=0.0442; W p=0.0142)
+excluded from the Illumina-only subset: Ma_2026, Tian_2026, Wang_2024 
+Illumina platforms only        additive +0.778 (k=33, t p=2.21e-06; W p=8.67e-07)   challenge +0.886 (k=24, t p=0.0126; W p=0.0035)
+Excluding Lucke_2018           additive +0.820 (k=36, t p=2.57e-07; W p=1.08e-07)   challenge +1.012 (k=24, t p=0.00143; W p=0.000373)
+
+==============================================================================
+Publication bias -- precision proxy
+==============================================================================
+The registered Egger test needs per-arm standard errors, which published
+reports do not provide. Substitute: regress the study effect on 1/sqrt(n_arms),
+a precision proxy, and test rank correlation (Begg).
+
+additive   k=36  Egger-style slope -0.772 (p=0.570)   Begg tau -0.070 (p=0.588)
+challenge  k=25  Egger-style slope +8.111 (p=0.014)   Begg tau +0.340 (p=0.042)
+             without Lucke_2018: slope +3.712 (p=0.375)  <- the asymmetry was one study
+
+==============================================================================
+Not executable, and why
+==============================================================================
+The registered n >= 6 birds per group sensitivity analysis cannot be run:
+the extraction recorded 'Sample size' as free text such as
+'32 pooled samples (from 64 birds)'. Declare this rather than omit it.

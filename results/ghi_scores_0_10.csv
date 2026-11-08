@@ -1,0 +1,530 @@
+"Study_ID","Treatment_Group","Segment","Challenge_Type","Intervention_Class","Intervention_Subclass","GHI_Combined_raw","GHI10"
+"Bernard_2024","R- CTR","Cecum","Control","Unchallenged control","",0.568521675796758,6.31385552432949
+"Bernard_2024","R+ CTR","Cecum","Control","Unchallenged control","",-0.462161989534014,4.60095669885778
+"Bernard_2024","R- LE","Cecum","Dietary_Feed_Challenge","Dietary challenge","Low energy, high fibre",0.527248768178731,6.24526385322734
+"Bernard_2024","R+ LE","Cecum","Dietary_Feed_Challenge","Dietary challenge","Low energy, high fibre",-0.627054208036421,4.32692141829324
+"Biagi_2020","Group A","Cecum","Control","Unchallenged control","",-1.61800140959556,2.68006083948472
+"Biagi_2020","Group B","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-2.30866084000212,1.53225015135793
+"Biagi_2020","Group C","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-1.5503658241698,2.79246478914729
+"Biagi_2020","Group A","Cecum","Control","Unchallenged control","",0.64064447943114,6.43371680649642
+"Biagi_2020","Group B","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-0.165508102993904,5.09396741680982
+"Biagi_2020","Group C","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",1.2251301248111,7.40507670008231
+"Biagi_2020","Group A","Cecum","Control","Unchallenged control","",1.23459718553174,7.42081006011751
+"Biagi_2020","Group B","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-0.162364723897751,5.09919141573687
+"Biagi_2020","Group C","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",2.52974182074442,9.57321801911998
+"Biasato_2018","C","Duodenum","Control","Unchallenged control","",0.401911909778092,6.03696584214567
+"Biasato_2018","TM7.5","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Insect or alternative protein",-0.247678676579949,4.95740769075779
+"Biasato_2018","C","Jejunum","Control","Unchallenged control","",0.140623622663276,5.60272940747311
+"Biasato_2018","TM7.5","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Insect or alternative protein",0.140623622663276,5.60272940747311
+"Biasato_2018","C","Ileum","Control","Unchallenged control","",-0.289413011647471,4.88804917085144
+"Biasato_2018","TM7.5","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Insect or alternative protein",-0.146067466877222,5.12627591639199
+"Cao_2020","Control","Jejunum","Control","Unchallenged control","",-2.64759040456194,0.968981252683917
+"Cao_2020","Anti","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.819692756476347,6.73127811824482
+"Cao_2020","GseL","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.647413681328263,6.44496658018449
+"Cao_2020","GseH","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.875741479090221,6.82442579717275
+"Cao_2020","Control","Ileum","Control","Unchallenged control","",-1.43469539347273,2.98469811111348
+"Cao_2020","Anti","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.323464380162774,5.90659346324888
+"Cao_2020","GseL","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.711657367226528,6.55173351345474
+"Cao_2020","GseH","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.09985035429028,7.19687356366061
+"Cao_2020","Control","Cecum","Control","Unchallenged control","",-0.875108738741889,3.91467823584019
+"Cao_2020","Anti","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.423120983580886,4.66583916036539
+"Cao_2020","GseL","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.0593797659310231,5.27034268113104
+"Cao_2020","GseH","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.27992624819125,7.49614267748687
+"Chen_2024","Control","Duodenum","Control","Unchallenged control","",-0.916453565201872,3.84596704242091
+"Chen_2024","GCM 250","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.126587218781959,5.57940223102616
+"Chen_2024","GCM 500","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.205151109582611,5.70996799121383
+"Chen_2024","GCM 1000","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.264772552943121,5.809053194308
+"Chen_2024","Control","Jejunum","Control","Unchallenged control","",-1.13707080392079,3.4793220457146
+"Chen_2024","GCM 250","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.304547583779246,5.87515553578679
+"Chen_2024","GCM 500","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.02408421979527,7.07095740999246
+"Chen_2024","GCM 1000","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.334766542806722,5.92537658921595
+"Chen_2024","Control","Ileum","Control","Unchallenged control","",-0.56834178168957,4.42449592103637
+"Chen_2024","GCM 250","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.395712331939475,4.71138974856576
+"Chen_2024","GCM 500","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.0465010539672435,5.29174588304292
+"Chen_2024","GCM 1000","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.277842766569581,5.83077465388139
+"Chen_2026a","CON","Duodenum","Control","Unchallenged control","",0.560304218206932,6.30019888657783
+"Chen_2026a","CON","Jejunum","Control","Unchallenged control","",0.146196755870003,5.61199142805722
+"Chen_2026a","CON","Ileum","Control","Unchallenged control","",0.260528665571828,5.80200025465422
+"Chen_2026a","LPS","Duodenum","Pathogen_Challenge","Toxin challenge","LPS",-1.16158531237047,3.43858124992737
+"Chen_2026a","LPS","Jejunum","Pathogen_Challenge","Toxin challenge","LPS",-1.42624953905466,2.99873432280426
+"Chen_2026a","LPS","Ileum","Pathogen_Challenge","Toxin challenge","LPS",-1.34954180137694,3.12621533195617
+"Chen_2026a","JF","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.70638829495056,8.20488228748918
+"Chen_2026a","JF","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.34456616669271,7.60356811188938
+"Chen_2026a","JF","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.47355923844951,7.81794240396211
+"Chen_2026a","JF + LPS","Duodenum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.31962079637449,4.83784668805337
+"Chen_2026a","JF + LPS","Jejunum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.642523730092719,4.30121253490628
+"Chen_2026a","JF + LPS","Ileum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.537547120748682,4.47567373662688
+"Chen_2026b","CON","Jejunum","Control","Unchallenged control","",0.283627238451967,5.84038789936746
+"Chen_2026b","HS","Jejunum","Pathogen_Challenge","Environmental challenge","Heat stress",-0.378809625928949,4.73948044821164
+"Chen_2026b","PAC","Jejunum","Challenged_And_Treated","Challenged and treated","Environmental",0.10880114740788,5.54984346164697
+"Choi_2026","BL","Ileum","Control","Unchallenged control","",-0.164377333263286,5.09584664921508
+"Choi_2026","BL","Colon","Control","Unchallenged control","",0.791146569330464,6.68383705356258
+"Choi_2026","SA","Ileum","Pathogen_Challenge","Infectious challenge","Salmonella",-1.14514515855429,3.46590323154942
+"Choi_2026","SA","Colon","Pathogen_Challenge","Infectious challenge","Salmonella",-1.94626792970398,2.13451291275499
+"Choi_2026","PR","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.338588562363564,5.93172842443956
+"Choi_2026","PR","Colon","Challenged_And_Treated","Challenged and treated","Infectious",-0.470519203120623,4.58706779985002
+"Choi_2026","PC","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.107142182111289,5.54708641813923
+"Choi_2026","PC","Colon","Challenged_And_Treated","Challenged and treated","Infectious",-0.379755924146416,4.73790779002391
+"Choi_2026","PP","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.920536580388126,6.8988710212323
+"Choi_2026","PP","Colon","Challenged_And_Treated","Challenged and treated","Infectious",2.00539648764056,8.70180563971942
+"Ding_2025","Con","Ileum","Control","Unchallenged control","",-1.25219474732967,3.28799693396418
+"Ding_2025","RA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.943617509456241,6.93722934359776
+"Ding_2025","Abx","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.836880491590689,6.7598425093186
+"Ding_2025","Con","Serum","Control","Unchallenged control","",1.17538421360982,7.32240369794314
+"Ding_2025","RA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-1.60370723418815,2.70381640784194
+"Ding_2025","Abx","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.428323020578332,6.08085861176147
+"Ding_2025","Con","Cecum","Control","Unchallenged control","",-0.331869362463627,4.81749072902004
+"Ding_2025","RA","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.462056815717317,6.13692099056489
+"Ding_2025","Abx","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.940920524527265,3.80530526878362
+"Du_2026","0 mg/kg","Jejunum","Control","Unchallenged control","",-0.0655507141570426,5.26008714849387
+"Du_2026","50 mg/kg","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.842266804366128,3.96925842635908
+"Du_2026","100 mg/kg","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.329383735880769,5.91643087291972
+"Du_2026","150 mg/kg","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.650012682640618,6.44928587469267
+"Du_2026","200 mg/kg","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.0432064834755103,5.29722114777791
+"Gao_2024","CON","Ileum","Control","Unchallenged control","",-0.0680391802392848,5.2559515530897
+"Gao_2024","BC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.39154847660231,6.01974279582044
+"Gao_2024","PC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.773748417284884,6.65492296943893
+"Gao_2024","BC+PC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.945292056568494,6.94001228261024
+"Gao_2024","CON","Ileum","Control","Unchallenged control","",-0.770069545085741,4.08924344677169
+"Gao_2024","BC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.607857737307421,4.35882413808104
+"Gao_2024","PC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.101609002999312,5.5378907974839
+"Gao_2024","BC+PC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",-0.675439757949899,4.24650920802502
+"Geng_2026","C","Jejunum","Control","Unchallenged control","",-1.87772125744403,2.24843100261468
+"Geng_2026","C","Ovary","Control","Unchallenged control","",-2.04236551756325,1.97480780544451
+"Geng_2026","L (20%)","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Postbiotic",0.514947782798133,6.22482077828659
+"Geng_2026","L (20%)","Ovary","Non_Disruptive_Additive","Non-disruptive additive","Postbiotic",-0.081099970021647,5.23424575505441
+"Geng_2026","M (30%)","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Postbiotic",0.724083255166126,6.57238416464203
+"Geng_2026","M (30%)","Ovary","Non_Disruptive_Additive","Non-disruptive additive","Postbiotic",1.32145105546797,7.56515298201071
+"Geng_2026","H (40%)","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Postbiotic",0.717714069651195,6.56179918036925
+"Geng_2026","H (40%)","Ovary","Non_Disruptive_Additive","Non-disruptive additive","Postbiotic",0.649850673124699,6.44901663019131
+"Han_2023","CON","Jejunum","Control","Unchallenged control","",0.400419737711962,6.03448599322068
+"Han_2023","LPS","Jejunum","Pathogen_Challenge","Toxin challenge","LPS",-1.04450853876257,3.63315178087552
+"Han_2023","CTC","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.5401738356847,6.26674409366854
+"Han_2023","0.1% 10-HDA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.837058596807612,6.76013850335357
+"Han_2023","0.5% 10-HDA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.604217344294649,6.37317835120755
+"Han_2023","CON","Ileum","Control","Unchallenged control","",-0.101741603094057,5.19994131205715
+"Han_2023","LPS","Ileum","Pathogen_Challenge","Toxin challenge","LPS",-0.981327946888156,3.73815195236806
+"Han_2023","CTC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.095265684886135,5.21070367597667
+"Han_2023","0.1% 10-HDA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.0823597964043722,5.23215204269255
+"Han_2023","0.5% 10-HDA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.0766659444636346,5.24161468640154
+"Han_2023","CON","Cecum","Control","Unchallenged control","",1.65863692308034,8.1255240211826
+"Han_2023","LPS","Cecum","Pathogen_Challenge","Toxin challenge","LPS",-2.1683188951593,1.7654851977371
+"Han_2023","CTC","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.0817718503375406,5.50492332488488
+"Han_2023","0.1% 10-HDA","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.701202545282265,6.5343585876349
+"Han_2023","0.5% 10-HDA","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.23489451655856,4.97865375627902
+"Jansseune_2024","Ctrl SD","Cecum","Control","Unchallenged control","",-0.225342923738615,4.9945276006728
+"Jansseune_2024","Pro SD","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.26826600290044,7.4767644520088
+"Jansseune_2024","Post SD","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Postbiotic",-1.67424685252545,2.58658622998673
+"Jansseune_2024","Ctrl CD","Cecum","Dietary_Feed_Challenge","Dietary challenge","NSP-rich",-0.858653392348015,3.94202546609027
+"Jansseune_2024","Pro CD","Cecum","Challenged_And_Treated","Challenged and treated","Dietary",0.827523271089876,6.74429169334601
+"Jansseune_2024","Post CD","Cecum","Challenged_And_Treated","Challenged and treated","Dietary",0.420621849777987,6.06805999385145
+"Ji_2026","Ct","Duodenum","Control","Unchallenged control","",0.166609583979849,5.6459156188347
+"Ji_2026","Ct","Jejunum","Control","Unchallenged control","",-0.548752595793382,4.45705129631028
+"Ji_2026","Ct","Ileum","Control","Unchallenged control","",-0.395540261432206,4.71167571348372
+"Ji_2026","Ct","Serum","Control","Unchallenged control","",1.10354613172353,7.20301559640796
+"Ji_2026","Cp","Duodenum","Pathogen_Challenge","Infectious challenge","Clostridium perfringens",-1.33071278874856,3.15750737111505
+"Ji_2026","Cp","Jejunum","Pathogen_Challenge","Infectious challenge","Clostridium perfringens",-1.21198605782705,3.3548199751547
+"Ji_2026","Cp","Ileum","Pathogen_Challenge","Infectious challenge","Clostridium perfringens",-1.21183483818127,3.35507128791182
+"Ji_2026","Cp","Serum","Pathogen_Challenge","Infectious challenge","Clostridium perfringens",-1.90288117669052,2.20661759509119
+"Ji_2026","LD","Duodenum","Challenged_And_Treated","Challenged and treated","Infectious",-0.282199183962763,4.90003787056982
+"Ji_2026","LD","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",-0.0366584219326313,5.30810340710072
+"Ji_2026","LD","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.405623258034477,6.04313375212922
+"Ji_2026","LD","Serum","Challenged_And_Treated","Challenged and treated","Infectious",0.121352763796674,5.57070306163222
+"Ji_2026","HD","Duodenum","Challenged_And_Treated","Challenged and treated","Infectious",1.62824114915391,8.07500911810496
+"Ji_2026","HD","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",1.14320585742561,7.26892631165328
+"Ji_2026","HD","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",1.62911240745155,8.07645706703916
+"Ji_2026","HD","Serum","Challenged_And_Treated","Challenged and treated","Infectious",0.67798228117032,6.49576870359737
+"Jiang_2023","CK","Serum","Control","Unchallenged control","",1.60010004150493,8.02824125725607
+"Jiang_2023","T","Serum","Pathogen_Challenge","Infectious challenge","Salmonella",-1.97221633022701,2.0913891238818
+"Jiang_2023","CK","Serum","Control","Unchallenged control","",1.30240701052727,7.53350357947489
+"Jiang_2023","T","Serum","Pathogen_Challenge","Infectious challenge","Salmonella",-0.930290721805192,3.82297099611597
+"Jin_2026","Control","Duodenum","Control","Unchallenged control","",0.210542378719943,5.71892777090547
+"Jin_2026","XSJ-L","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.530953182992915,6.25142024048535
+"Jin_2026","XSJ-M","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.13118392001601,7.24894698806306
+"Jin_2026","XSJ-H","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.519389191239125,6.23220197928736
+"Jin_2026","Control","Jejunum","Control","Unchallenged control","",-0.493009004747335,4.54969187541532
+"Jin_2026","XSJ-L","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.129435520490745,5.1539166391365
+"Jin_2026","XSJ-M","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.903072256788247,3.86820551212405
+"Jin_2026","XSJ-H","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.242683553304587,4.96570911347289
+"Jin_2026","Control","Ileum","Control","Unchallenged control","",-0.566939909389031,4.42682570028662
+"Jin_2026","XSJ-L","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.0961463498443399,5.20924009406179
+"Jin_2026","XSJ-M","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.328286503180295,5.91460737588845
+"Jin_2026","XSJ-H","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.173682978082864,5.08038154714945
+"Jin_2026","Control","Cecum","Control","Unchallenged control","",-0.0265899090306146,5.32483632380856
+"Jin_2026","XSJ-H","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.709519994751933,6.54818140243904
+"Kong_2021","CON","Jejunum","Control","Unchallenged control","",-0.656607200749619,4.27780713792734
+"Kong_2021","300","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.00974115540661251,5.38521511867643
+"Kong_2021","600","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.117613883756877,5.56448939642711
+"Kong_2021","900","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.0276585648874919,5.41499215957427
+"Kong_2021","1200","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.75067867653135,6.61658324099472
+"Kong_2021","CON","Jejunum","Control","Unchallenged control","",-0.402125174242699,4.70073221083754
+"Kong_2021","300","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-0.296547765616385,4.87619188417419
+"Kong_2021","600","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-0.336913552778936,4.80910776152266
+"Kong_2021","900","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.335488875066991,5.9265770371534
+"Kong_2021","1200","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.508609398211741,6.21428698224555
+"Li_2017","CTL","Cecum","Control","Unchallenged control","",0.334131444278093,5.92432111549463
+"Li_2017","LA","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.6704625941344,6.48327169454891
+"Li_2017","CLG","Cecum","Pathogen_Challenge","Infectious challenge","Clostridium perfringens",-0.392204781152233,4.71721896641974
+"Li_2017","LACLG","Cecum","Challenged_And_Treated","Challenged and treated","Infectious",-0.690072497322796,4.22219097836023
+"Liang_2026","Con","Duodenum","Control","Unchallenged control","",-0.218979065083333,5.00510373220837
+"Liang_2026","SBP","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",0.823969072029564,6.73838495047166
+"Liang_2026","Con","Jejunum","Control","Unchallenged control","",-0.646039051962417,4.29537040224783
+"Liang_2026","SBP","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",0.511186358690185,6.2185696469712
+"Liang_2026","Con","Ileum","Control","Unchallenged control","",-0.670067011492078,4.25543820477419
+"Liang_2026","SBP","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",0.23397659764532,5.75787322761866
+"Liu_2021","DC","Ileum","Control","Unchallenged control","",-1.1011393919514,3.53903665595843
+"Liu_2021","CE","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Enzyme",1.12383732516956,7.2367376418718
+"Liu_2026","CON","Ileum","Control","Unchallenged control","",-1.27241531232672,3.25439226630633
+"Liu_2026","SE1-L","Ileum","Pathogen_Challenge","Infectious challenge","Salmonella",2.30625275359218,9.20180031501967
+"Liu_2026","SYN-H","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Prebiotic",-1.03383744126546,3.65088613622055
+"Lucke_2018","0 DON+con","Cecum","Control","Unchallenged control","",-2.83661520204587,0.654839907006004
+"Lucke_2018","2.5 DON+con","Cecum","Dietary_Feed_Challenge","Toxin challenge","Deoxynivalenol",1.17705831461094,7.32518589556109
+"Lucke_2018","5 DON+con","Cecum","Dietary_Feed_Challenge","Toxin challenge","Deoxynivalenol",0.92208286078597,6.90144079308996
+"Lucke_2018","10 DON+con","Cecum","Dietary_Feed_Challenge","Toxin challenge","Deoxynivalenol",0.348936345031109,5.94892546109948
+"Lucke_2018","0 DON+lps","Cecum","Pathogen_Challenge","Toxin challenge","LPS",1.53107045054258,7.91352060216133
+"Lucke_2018","2.5 DON+lps","Cecum","Pathogen_Challenge","Toxin challenge","LPS",0.567114751156744,6.31151734856861
+"Lucke_2018","5 DON+lps","Cecum","Pathogen_Challenge","Toxin challenge","LPS",-0.652772375751645,4.28418025458366
+"Lucke_2018","10 DON+lps","Cecum","Pathogen_Challenge","Toxin challenge","LPS",-1.21224162445492,3.35439524757685
+"Ma_2024_Layers","NC","Ileum","Control","Unchallenged control","",0.176155724442331,5.66178040192576
+"Ma_2024_Layers","LA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.554548267424958,6.29063304046465
+"Ma_2024_Layers","MA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.828103958391383,6.74525674075112
+"Ma_2024_Layers","HA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-0.491485427137379,4.55222391738551
+"Ma_2024_Layers","S","Ileum","Pathogen_Challenge","Infectious challenge","Salmonella",-0.610731532067165,4.3540481628384
+"Ma_2024_Layers","LAS","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.0142138836786174,5.3926483702758
+"Ma_2024_Layers","MAS","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.468160808855182,6.14706525017454
+"Ma_2024_Layers","HAS","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",-0.938965683587927,3.80855402964169
+"Ma_2024","C","Ileum","Control","Unchallenged control","",-0.570228364969664,4.42136059795585
+"Ma_2024","Ab","Ileum","Antibiotic_Challenge","Antibiotic challenge","",0.0935598418932388,5.52451385257986
+"Ma_2024","C_FMT","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Microbiota transfer",-0.136802679958403,5.14167311648869
+"Ma_2024","A_FMT","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Microbiota transfer",0.13497031801286,5.59333414952786
+"Ma_2024","S","Ileum","Pathogen_Challenge","Infectious challenge","Salmonella",-0.276216958300934,4.90997976414447
+"Ma_2024","S_Ab","Ileum","Challenged_And_Treated","Infectious challenge","Salmonella after antibiotic depletion",0.145092218001972,5.61015579052799
+"Ma_2024","S_C_FMT","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.27864770286225,5.83211238191247
+"Ma_2024","S_A_FMT","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.33097792245868,5.91908026032028
+"Ma_2026","Con","Duodenum","Control","Unchallenged control","",-0.234225562066123,4.97976549541192
+"Ma_2026","Con","Jejunum","Control","Unchallenged control","",-0.54422186591658,4.46458094109417
+"Ma_2026","Con","Ileum","Control","Unchallenged control","",-0.292324914085806,4.88320986424914
+"Ma_2026","Con","Serum","Control","Unchallenged control","",-1.10530912356131,3.53210695617042
+"Ma_2026","Api300","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",0.363399351288973,5.97296161037127
+"Ma_2026","Api300","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",0.232653039000614,5.75567359826174
+"Ma_2026","Api300","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",-0.355353045415471,4.7784630677705
+"Ma_2026","Api300","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",0.0857282524882389,5.51149849127684
+"Ma_2026","Api500","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",0.315243478595441,5.89293110193215
+"Ma_2026","Api500","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",0.409987779108436,6.05038717359383
+"Ma_2026","Api500","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",-0.459885269141131,4.60474039294169
+"Ma_2026","Api500","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",-1.05072495580845,3.62282068335773
+"Ma_2026","Api700","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",0.35845185861897,5.96473934521995
+"Ma_2026","Api700","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",-0.00852689325299184,5.35485534860803
+"Ma_2026","Api700","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",0.944533654541532,6.93875189013006
+"Ma_2026","Api700","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antimicrobial peptide",3.07135274485867,10
+"Ma_2026","Sal","Duodenum","Pathogen_Challenge","Infectious challenge","Salmonella",-0.333437017810287,4.81488543401794
+"Ma_2026","Sal","Jejunum","Pathogen_Challenge","Infectious challenge","Salmonella",0.0428274190499629,5.4402013613426
+"Ma_2026","Sal","Ileum","Pathogen_Challenge","Infectious challenge","Salmonella",-0.180697981501283,5.0687232745676
+"Ma_2026","Sal","Serum","Pathogen_Challenge","Infectious challenge","Salmonella",-0.913205321942221,3.85136531567531
+"Ma_2026","Sal+Api","Duodenum","Challenged_And_Treated","Challenged and treated","Infectious",-0.0217610960224307,5.33286135458024
+"Ma_2026","Sal+Api","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",0.105809988575079,5.54487243840885
+"Ma_2026","Sal+Api","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",-0.179443349466029,5.07080835441496
+"Ma_2026","Sal+Api","Serum","Challenged_And_Treated","Challenged and treated","Infectious",-0.0878415960349276,5.22304180987865
+"Massacci_2019","C","Duodenum","Pathogen_Challenge","Infectious challenge","Campylobacter jejuni",-0.158978811202996,5.10481848257909
+"Massacci_2019","S","Duodenum","Challenged_And_Treated","Challenged and treated","Infectious",0.264934831219026,5.80932288546306
+"Massacci_2019","C","Feces","Control","Unchallenged control","",-0.81281197003794,4.01820957676761
+"Massacci_2019","S","Feces","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.361385803456724,5.9696152842065
+"Massacci_2019","C","Cecum","Pathogen_Challenge","Infectious challenge","Campylobacter jejuni",-0.317957622405992,4.84061072597599
+"Massacci_2019","S","Cecum","Challenged_And_Treated","Challenged and treated","Infectious",0.529869662438052,6.24961953174393
+"Massacci_2019","C","Feces","Pathogen_Challenge","Infectious challenge","Campylobacter jejuni",-0.317957622405992,4.84061072597599
+"Massacci_2019","S","Feces","Challenged_And_Treated","Challenged and treated","Infectious",0.529869662438052,6.24961953174393
+"Melaku_2024","CON","Jejunum","Control","Unchallenged control","",-0.454285249020126,4.61404709703582
+"Melaku_2024","ANT","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.7741969326875,4.08238411872262
+"Melaku_2024","NSB","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",2.02624064742249,8.73644666296388
+"Melaku_2024","CON","Ileum","Control","Unchallenged control","",-1.13408879757342,3.48427785838708
+"Melaku_2024","ANT","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-1.1735525637676,3.41869280932063
+"Melaku_2024","NSB","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",1.45162046557928,7.78148223723419
+"Melaku_2026","CTRL","Jejunum","Control","Unchallenged control","",-0.857445274068803,3.94403324447185
+"Melaku_2026","CTRL","Ileum","Control","Unchallenged control","",-0.754357802613215,4.11535487759432
+"Melaku_2026","CTRL","Cecum","Control","Unchallenged control","",-0.374161192674709,4.74720570488282
+"Melaku_2026","CTRL","Serum","Control","Unchallenged control","",-0.372444363148222,4.75005891327098
+"Melaku_2026","ANBX","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.513011704823838,4.51644927866153
+"Melaku_2026","ANBX","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.300648112705453,4.86937749490118
+"Melaku_2026","ANBX","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.8695147735589,6.81407760116468
+"Melaku_2026","ANBX","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.63974781795703,4.30582583848018
+"Melaku_2026","NBSB","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.801915602385462,6.70173416854737
+"Melaku_2026","NBSB","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.66828297910372,6.479649380398
+"Melaku_2026","NBSB","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",1.42992209897143,7.74542160298972
+"Melaku_2026","NBSB","Serum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",1.02921563101887,7.07948533039479
+"Miska_2024","C","Jejunum","Control","Unchallenged control","",0.319156420579302,5.89943404163493
+"Miska_2024","IF","Jejunum","Pathogen_Challenge","Infectious challenge","Eimeria",-0.302428139903657,4.86641925795645
+"Miska_2024","C","Jejunum","Control","Unchallenged control","",-0.107386376511472,5.19056023221473
+"Miska_2024","IF","Jejunum","Pathogen_Challenge","Infectious challenge","Eimeria",0.204917187801322,5.709579235325
+"Miska_2024","C","Jejunum","Control","Unchallenged control","",0.260858422830669,5.80254828004781
+"Miska_2024","IF","Jejunum","Pathogen_Challenge","Infectious challenge","Eimeria",-0.370434239484267,4.75339954879171
+"Miska_2024","C","Jejunum","Control","Unchallenged control","",0.45110764354168,6.11872450138941
+"Miska_2024","IF","Jejunum","Pathogen_Challenge","Infectious challenge","Eimeria",-1.82161571281812,2.34167311435546
+"Miska_2024","C","Jejunum","Control","Unchallenged control","",0.55272649521262,6.28760542725242
+"Miska_2024","IF","Jejunum","Pathogen_Challenge","Infectious challenge","Eimeria",-0.680438802268904,4.23820126890603
+"Miska_2024","C","Jejunum","Control","Unchallenged control","",1.24622071194707,7.44012726229541
+"Miska_2024","IF","Jejunum","Pathogen_Challenge","Infectious challenge","Eimeria",0.370874250358435,5.9853841860531
+"Nong_2026","CK","Duodenum","Control","Unchallenged control","",-0.352182005901459,4.78373303569741
+"Nong_2026","CK","Jejunum","Control","Unchallenged control","",-0.230182380064073,4.98648488171389
+"Nong_2026","CK","Ileum","Control","Unchallenged control","",-0.230381866401637,4.98615335427748
+"Nong_2026","L5","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",-0.125266306377702,5.16084547889364
+"Nong_2026","L5","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",-0.240002420121355,4.97016490338687
+"Nong_2026","L5","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",-0.197066978910649,5.04151954816756
+"Nong_2026","L10","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",1.13545527715496,7.25604557987409
+"Nong_2026","L10","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",1.34729062071054,7.60809589693553
+"Nong_2026","L10","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",1.23113201313342,7.41505127114007
+"Nong_2026","L15","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",-0.648615672356385,4.29108830271043
+"Nong_2026","L15","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",-0.743703580392234,4.13306118782558
+"Nong_2026","L15","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",-0.808244235337203,4.02580072007097
+"Obianwuna_2026","CON (PBS)","Jejunum","Control","Unchallenged control","",-0.0346198053142585,5.31149139521837
+"Obianwuna_2026","CON (PBS)","Ileum","Control","Unchallenged control","",-0.477035955429837,4.57623757351403
+"Obianwuna_2026","XOS-PC (PBS)","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Prebiotic",0.0453829946608255,5.44444848643975
+"Obianwuna_2026","XOS-PC (PBS)","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Prebiotic",0.731419893990309,6.58457696486539
+"Obianwuna_2026","LPS","Jejunum","Pathogen_Challenge","Toxin challenge","LPS",-0.333126351017014,4.8154017328623
+"Obianwuna_2026","LPS","Ileum","Pathogen_Challenge","Toxin challenge","LPS",-1.13880137646182,3.47644599773535
+"Obianwuna_2026","XOS-PC + LPS","Jejunum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.152734914432698,5.62285722956305
+"Obianwuna_2026","XOS-PC + LPS","Ileum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.940960186980601,6.93281312482906
+"Rebollada_Merino_2020","Control","Duodenum","Control","Unchallenged control","",-0.307272857019347,4.85836779606146
+"Rebollada_Merino_2020","Control","Cecum","Control","Unchallenged control","",0.656310088923213,6.4597515686663
+"Rebollada_Merino_2020","Treatment","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.399036036353712,4.70586606600547
+"Rebollada_Merino_2020","Treatment","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.168766130576756,5.64949959542923
+"Rebollada_Merino_2020","Control","Duodenum","Control","Unchallenged control","",0.360867874399007,5.96875453507029
+"Rebollada_Merino_2020","Control","Cecum","Control","Unchallenged control","",0.103089958917097,5.54035200623056
+"Rebollada_Merino_2020","Treatment","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.626870217472005,6.41082528514494
+"Rebollada_Merino_2020","Treatment","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.170263632862155,5.6519883026748
+"Rebollada_Merino_2020","Control","Duodenum","Control","Unchallenged control","",-0.221385821996104,5.00110392972022
+"Rebollada_Merino_2020","Control","Cecum","Control","Unchallenged control","",-0.457047205454911,4.60945698651764
+"Rebollada_Merino_2020","Treatment","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.733539850152721,6.58810013161654
+"Rebollada_Merino_2020","Treatment","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-1.55785400448873,2.78002014128426
+"Rebollada_Merino_2020","Control","Duodenum","Control","Unchallenged control","",0.239698277248163,5.76738211827163
+"Rebollada_Merino_2020","Control","Cecum","Control","Unchallenged control","",-1.14226146547409,3.47069565686501
+"Rebollada_Merino_2020","Treatment","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.13439538682895,7.25428414233935
+"Rebollada_Merino_2020","Treatment","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-1.8627739936491,2.27327194213819
+"Rebollada_Merino_2020","Control","Duodenum","Control","Unchallenged control","",0.267340772809795,5.8133213329631
+"Rebollada_Merino_2020","Control","Cecum","Control","Unchallenged control","",-0.452412079333436,4.61716012799203
+"Rebollada_Merino_2020","Treatment","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.702045483212163,6.53575947079492
+"Rebollada_Merino_2020","Treatment","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.993937429586909,3.71719618404552
+"Rebollada_Merino_2020","Control","Duodenum","Control","Unchallenged control","",0.620114943583048,6.39959865848988
+"Rebollada_Merino_2020","Control","Cecum","Control","Unchallenged control","",-0.322058070871052,4.83379616822567
+"Rebollada_Merino_2020","Treatment","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.462355492122946,6.13741736251839
+"Rebollada_Merino_2020","Treatment","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-2.74915272734026,0.800194272497
+"Tang_2026","NC","Jejunum","Control","Unchallenged control","",1.2825650211398,7.50052806869495
+"Tang_2026","NC","Ileum","Control","Unchallenged control","",0.111417709592426,5.55419194066477
+"Tang_2026","EC","Jejunum","Pathogen_Challenge","Infectious challenge","Escherichia coli K88",-1.38351405262137,3.06975666164578
+"Tang_2026","EC","Ileum","Pathogen_Challenge","Infectious challenge","Escherichia coli K88",-0.164159989403404,5.09620785416558
+"Tang_2026","AB","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",-0.281818773892017,4.90067007614879
+"Tang_2026","AB","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",-0.0380281458336698,5.30582705545159
+"Tang_2026","MGDL","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",-0.286542634283879,4.8928194667047
+"Tang_2026","MGDL","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.00250210985658694,5.37318450924963
+"Tang_2026","MGDH","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",-0.708505653075131,4.19155681591061
+"Tang_2026","MGDH","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",-0.0134337839053335,5.34670056017212
+"Tang_2026","NC","Jejunum","Control","Unchallenged control","",1.11282283052015,7.21843259291957
+"Tang_2026","NC","Ileum","Control","Unchallenged control","",0.0862444335464137,5.51235633540304
+"Tang_2026","EC","Jejunum","Pathogen_Challenge","Infectious challenge","Escherichia coli K88",-1.91645166559228,2.18406472529923
+"Tang_2026","EC","Ileum","Pathogen_Challenge","Infectious challenge","Escherichia coli K88",0.00832314943707535,5.38285852679336
+"Tang_2026","AB","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",1.00533502284706,7.03979801694938
+"Tang_2026","AB","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.119321036991013,5.56732652373203
+"Tang_2026","MGDL","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",0.714870815678188,6.55707396102728
+"Tang_2026","MGDL","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.0655654504040221,5.47798982012002
+"Tang_2026","MGDH","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",0.164423289803113,5.6422822045744
+"Tang_2026","MGDH","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.0420006000549355,5.43882726632868
+"Tian_2026","CON","Duodenum","Control","Unchallenged control","",0.731721863693109,6.58507880996748
+"Tian_2026","CON","Jejunum","Control","Unchallenged control","",0.0252950059078777,5.41106414796771
+"Tian_2026","CON","Ileum","Control","Unchallenged control","",0.93011129894783,6.91478329841957
+"Tian_2026","CON","Serum","Control","Unchallenged control","",0.0300972264761474,5.41904498461792
+"Tian_2026","HGA","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.882953350181544,6.83641124521787
+"Tian_2026","HGA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.25951353286388,7.4622186741432
+"Tian_2026","HGA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.02058756830472,7.06514630573932
+"Tian_2026","HGA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.31597352823169,7.55604984951225
+"Tian_2026","CON","Duodenum","Control","Unchallenged control","",-0.464512075942745,4.59705107739051
+"Tian_2026","CON","Jejunum","Control","Unchallenged control","",-0.8561135900487,3.94624637743462
+"Tian_2026","CON","Ileum","Control","Unchallenged control","",-0.408024929107346,4.69092737593217
+"Tian_2026","CON","Serum","Control","Unchallenged control","",-1.37275265542558,3.08764108655436
+"Tian_2026","HGA","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.0742592324233179,5.24561441431591
+"Tian_2026","HGA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.811227908384646,6.71721034086385
+"Tian_2026","HGA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.147502494668463,5.12389103585025
+"Tian_2026","HGA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.0848095946279,7.17187724284318
+"Tian_2026","CON","Duodenum","Control","Unchallenged control","",-0.771280371124614,4.08723116834951
+"Tian_2026","CON","Jejunum","Control","Unchallenged control","",-0.980212782276947,3.74000525053994
+"Tian_2026","CON","Ileum","Control","Unchallenged control","",-0.807063125116758,4.02776361361183
+"Tian_2026","CON","Serum","Control","Unchallenged control","",-1.49139006571628,2.89047692496
+"Tian_2026","HGA","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.571351035650037,4.41949482540654
+"Tian_2026","HGA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.0563464750160094,5.46266875445715
+"Tian_2026","HGA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.591184242900622,4.38653390970796
+"Tian_2026","HGA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.467309271633373,6.14565007580422
+"Wang_2024","CON","Serum","Control","Unchallenged control","",-1.71334897235785,2.52160220298862
+"Wang_2024","CTC","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.373757065206433,5.99017515182978
+"Wang_2024","IsCT50","Serum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",-1.72198182161365,2.50725522355338
+"Wang_2024","IsCT100","Serum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",0.272798051884042,5.82239081493025
+"Wang_2024","IsCT150","Serum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",1.57602704611396,7.988234214438
+"Wang_2024","IsCT200","Serum","Non_Disruptive_Additive","Non-disruptive additive","Bioactive compound",1.28186486333516,7.49936447260669
+"Wang_2026","CM","Jejunum","Control","Unchallenged control","",0.472567198631515,6.15438825346481
+"Wang_2026","CM","Jejunum","Control","Unchallenged control","",-0.314376070023702,4.84656292748587
+"Wang_2026","CML","Jejunum","Dietary_Feed_Challenge","Dietary challenge","Low protein",-0.713842193906445,4.18268798949032
+"Wang_2026","CML","Jejunum","Dietary_Feed_Challenge","Dietary challenge","Low protein",-0.3627528654358,4.76616526637141
+"Wang_2026","CMLB","Jejunum","Challenged_And_Treated","Challenged and treated","Dietary",0.790289535275575,6.68241274397528
+"Wang_2026","CMLB","Jejunum","Challenged_And_Treated","Challenged and treated","Dietary",-0.386853244714545,4.72611271412034
+"Wu_2021a","CON","Jejunum","Control","Unchallenged control","",1.75341730877233,8.28304006300078
+"Wu_2021a","LPS","Jejunum","Pathogen_Challenge","Toxin challenge","LPS",-0.968674896728118,3.759180125693
+"Wu_2021a","ANT+LPS","Jejunum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.043673695759578,5.44160779323891
+"Wu_2021a","LA+LPS","Jejunum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.523633269363211,6.23925523595425
+"Wu_2021a","CON","Ileum","Control","Unchallenged control","",0.229839925652778,5.75099846978972
+"Wu_2021a","LPS","Ileum","Pathogen_Challenge","Toxin challenge","LPS",-1.21815501478722,3.34456775181315
+"Wu_2021a","ANT+LPS","Ileum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.251902313408429,4.95038840559196
+"Wu_2021a","LA+LPS","Ileum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.111831974624136,5.18317206837567
+"Wu_2021a","CON","Serum","Control","Unchallenged control","",1.22732805864073,7.40872945834546
+"Wu_2021a","LPS","Serum","Pathogen_Challenge","Toxin challenge","LPS",-1.82006396381152,2.34425197452395
+"Wu_2021a","ANT+LPS","Serum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.217363742903049,5.00778824498221
+"Wu_2021a","LA+LPS","Serum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.810099648073843,6.71533527887712
+"Wu_2021b","CT","Duodenum","Control","Unchallenged control","",-0.805571519838225,4.03024252058941
+"Wu_2021b","XOS","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Prebiotic",-0.152684470345305,5.11527908210629
+"Wu_2021b","BBC","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.00998762817849503,5.38562473312523
+"Wu_2021b","MIX","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.0070259610343,7.04260819637911
+"Wu_2021b","CT","Jejunum","Control","Unchallenged control","",-0.777887004698345,4.076251567848
+"Wu_2021b","XOS","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Prebiotic",-0.131278442626028,5.15085387675155
+"Wu_2021b","BBC","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.0634288486267158,5.47443898993036
+"Wu_2021b","MIX","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.00210102388673,7.034423416374
+"Wu_2021b","CT","Ileum","Control","Unchallenged control","",-0.889241799459231,3.89119042486835
+"Wu_2021b","XOS","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Prebiotic",-0.232509532440344,4.98261737444071
+"Wu_2021b","BBC","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.0027673377454709,5.37362529293005
+"Wu_2021b","MIX","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.04209443507204,7.10088868535053
+"Wu_2021b","CT","Cecum","Control","Unchallenged control","",-1.3888532828114,3.06088336576553
+"Wu_2021b","XOS","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Prebiotic",-0.736320076976393,4.14533187257035
+"Wu_2021b","BBC","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",0.390834606434955,6.01855641108152
+"Wu_2021b","MIX","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Probiotic",1.74157462170032,8.26335863652784
+"Xu_2023","CON (Fig 3)","Duodenum","Control","Unchallenged control","",1.70360948457476,8.20026416731417
+"Xu_2023","TD (Fig 3)","Duodenum","Dietary_Feed_Challenge","Toxin challenge","Thiram",-0.133614529600779,5.14697152102025
+"Xu_2023","CON (Fig 5)","Duodenum","Control","Unchallenged control","",-0.625187461704058,4.33002377424174
+"Xu_2023","TD (Fig 5)","Duodenum","Dietary_Feed_Challenge","Toxin challenge","Thiram",-1.73378125194309,2.4876456856977
+"Xu_2023","TFRD (Fig 5)","Duodenum","Challenged_And_Treated","Challenged and treated","Toxicant",0.788973758673174,6.68022604763706
+"Xu_2026","CON","Jejunum","Control","Unchallenged control","",2.01001210886685,8.70947636590173
+"Xu_2026","CON","Ileum","Control","Unchallenged control","",2.13858106222131,8.92314581327995
+"Xu_2026","EC","Jejunum","Pathogen_Challenge","Infectious challenge","Escherichia coli K88",-1.16147577854713,3.43876328478798
+"Xu_2026","EC","Ileum","Pathogen_Challenge","Infectious challenge","Escherichia coli K88",-1.13650414318746,3.48026378228928
+"Xu_2026","CUR100E","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",-0.952949860005945,3.7853136503019
+"Xu_2026","CUR100E","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",-0.946911658012699,3.79534857124816
+"Xu_2026","CUR200E","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",-0.121747449856621,5.16669348580857
+"Xu_2026","CUR200E","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",-0.414967091749306,4.67939015783545
+"Xu_2026","CUR400E","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",0.40889115262348,6.04856468403545
+"Xu_2026","CUR400E","Ileum","Challenged_And_Treated","Challenged and treated","Infectious",0.223149146026257,5.73987902650246
+"Yue_2026","CON","Jejunum","Control","Unchallenged control","",0.1347437765866,5.59295765909145
+"Yue_2026","CON","Cecum","Control","Unchallenged control","",0.249657668946869,5.78393368585435
+"Yue_2026","CON","Liver","Control","Unchallenged control","",0.0458891752626368,5.44528971075278
+"Yue_2026","PLP","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",1.58584853286124,8.00455659702704
+"Yue_2026","PLP","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",1.94909919971977,8.60824486874725
+"Yue_2026","PLP","Liver","Non_Disruptive_Additive","Non-disruptive additive","Fibre or polysaccharide",1.82055332339364,8.39461377320874
+"Yue_2026","LPS","Jejunum","Pathogen_Challenge","Toxin challenge","LPS",-1.48176030464879,2.90648067759227
+"Yue_2026","LPS","Cecum","Pathogen_Challenge","Toxin challenge","LPS",-1.96044067117015,2.11095915612945
+"Yue_2026","LPS","Liver","Pathogen_Challenge","Toxin challenge","LPS",-1.61633730553483,2.68282642313271
+"Yue_2026","LPS+PLP","Jejunum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.193436138362719,5.04755366194972
+"Yue_2026","LPS+PLP","Cecum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.231761951091437,4.98385978397679
+"Yue_2026","LPS+PLP","Liver","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.219841282163894,5.00367080892233
+"Zhang_2018","CTL","Jejunum","Control","Unchallenged control","",-0.164262699596424,5.09603715953355
+"Zhang_2018","CP","Jejunum","Pathogen_Challenge","Infectious challenge","Clostridium perfringens",-0.0971508777685324,5.20757066360569
+"Zhang_2018","ARGCP","Jejunum","Challenged_And_Treated","Challenged and treated","Infectious",0.261413577364956,5.8034708944073
+"Zhang_2022","CON","Serum","Control","Unchallenged control","",1.50150746145013,7.86438970875802
+"Zhang_2022","LPS","Serum","Pathogen_Challenge","Toxin challenge","LPS",-1.82824343661208,2.3306584639015
+"Zhang_2022","ANT+LPS","Serum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.217910045250726,5.00688034212009
+"Zhang_2022","RLS+LPS","Serum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.544646020412677,6.27417644194912
+"Zhang_2022","CON","Jejunum","Control","Unchallenged control","",1.1796397766462,7.32947604144865
+"Zhang_2022","LPS","Jejunum","Pathogen_Challenge","Toxin challenge","LPS",-1.92753210362716,2.16565008467372
+"Zhang_2022","ANT+LPS","Jejunum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.586692260764528,6.3440533189549
+"Zhang_2022","RLS+LPS","Jejunum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.989475805190107,7.01344149631045
+"Zhang_2022","CON","Ileum","Control","Unchallenged control","",0.960369162351576,6.96506900724462
+"Zhang_2022","LPS","Ileum","Pathogen_Challenge","Toxin challenge","LPS",-1.78157005111442,2.40822521875453
+"Zhang_2022","ANT+LPS","Ileum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.537671351638378,4.47546727663124
+"Zhang_2022","RLS+LPS","Ileum","Challenged_And_Treated","Challenged and treated","Endotoxin",0.53059650142754,6.25082746943934
+"Zhang_2022","LPS","Cecum","Pathogen_Challenge","Toxin challenge","LPS",1.92523406304022,8.56858326745953
+"Zhang_2022","ANT+LPS","Cecum","Challenged_And_Treated","Challenged and treated","Endotoxin",-0.779368487281296,4.07378948383362
+"Zhang_2022","RLS+LPS","Cecum","Challenged_And_Treated","Challenged and treated","Endotoxin",-1.20412800580583,3.36787931482448
+"Zhang_2023","NC","Serum","Control","Unchallenged control","",-1.12620303322055,3.49738325333252
+"Zhang_2023","CTC","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.352602527269926,5.95501830943119
+"Zhang_2023","EM","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.923020589500069,6.90299920957313
+"Zhang_2023","NC","Serum","Control","Unchallenged control","",-0.887070958836418,3.89479815678279
+"Zhang_2023","CTC","Serum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.523880021547436,4.49838716360441
+"Zhang_2023","EM","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.2615308968344,7.46557134236905
+"Zhang_2023","NC","Cecum","Control","Unchallenged control","",-1.24951002423867,3.29245868996554
+"Zhang_2023","CTC","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.66541114097511,4.26317582147301
+"Zhang_2023","EM","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.85665873516687,8.45461755467907
+"Zhang_2026a","Control","Jejunum","Control","Unchallenged control","",0.623189807812165,6.40470879218435
+"Zhang_2026a","0.05% IVA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.93928658103516,6.93003174994686
+"Zhang_2026a","0.1% IVA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",1.09233082696683,7.18437682003917
+"Zhang_2026a","0.2% IVA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.872669432667675,6.81932034640645
+"Zhang_2026a","Control","Ileum","Control","Unchallenged control","",-0.276599036804495,4.90934478578787
+"Zhang_2026a","0.05% IVA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.192054803753388,5.04984930949852
+"Zhang_2026a","0.1% IVA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.265652639375652,4.92753666359647
+"Zhang_2026a","0.2% IVA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.444174029716891,4.63085098774562
+"Zhang_2026a","Control","Serum","Control","Unchallenged control","",-0.981530618312977,3.73781513161771
+"Zhang_2026a","0.05% IVA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.562499767243338,6.30384768154007
+"Zhang_2026a","0.1% IVA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.00444751081121775,5.37641758174543
+"Zhang_2026a","0.2% IVA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.455167857528338,6.12547219323983
+"Zhang_2026a","Control","Jejunum","Control","Unchallenged control","",0.19850297551157,5.69891942080866
+"Zhang_2026a","0.05% IVA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.134457730827454,5.14557020028588
+"Zhang_2026a","0.1% IVA","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.0710108196389583,5.48703950906002
+"Zhang_2026a","Control","Ileum","Control","Unchallenged control","",-0.399712633705569,4.70474162516267
+"Zhang_2026a","0.05% IVA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.102336538735669,5.53909989310675
+"Zhang_2026a","0.1% IVA","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.357440517180015,4.77499388701799
+"Zhang_2026a","Control","Serum","Control","Unchallenged control","",-0.596230701663979,4.37814717226435
+"Zhang_2026a","0.05% IVA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.127040929064868,5.15789622373539
+"Zhang_2026a","0.1% IVA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.150470710011769,5.61909433584144
+"Zhang_2026a","0.2% IVA","Serum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.314368540532751,4.8465754407881
+"Zhang_2026b","CON","Jejunum","Control","Unchallenged control","",-0.457311265565148,4.60901814357495
+"Zhang_2026b","CON","Serum","Control","Unchallenged control","",0.0911642981119263,5.52053268525626
+"Zhang_2026b","POL","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.211580051019276,5.72065228418005
+"Zhang_2026b","POL","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.168864604158959,5.64966324921455
+"Zhang_2026b","POH","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.0456785199694589,5.44493962156791
+"Zhang_2026b","POH","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-1.01215882557437,3.68691394630834
+"Zhang_2026b","CON","Jejunum","Control","Unchallenged control","",-0.959711418490489,3.77407657924304
+"Zhang_2026b","CON","Serum","Control","Unchallenged control","",0.416689258108845,6.06152439822913
+"Zhang_2026b","POL","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.892725586105301,6.85265177759369
+"Zhang_2026b","POL","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.372856393044731,5.98867831983389
+"Zhang_2026b","POH","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.179747552289403,5.66774968028681
+"Zhang_2026b","POH","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.037415727850087,5.30684483625094
+"Zhao_2022","CON","Duodenum","Control","Unchallenged control","",-0.172480414391678,5.08238009433078
+"Zhao_2022","ANT","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.0782375585645107,5.49904966604024
+"Zhao_2022","CSB","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.201301413677108,5.70357016051488
+"Zhao_2022","CON","Jejunum","Control","Unchallenged control","",-0.546779001180927,4.46033122400036
+"Zhao_2022","ANT","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",-0.742585131155487,4.13491994473462
+"Zhao_2022","CSB","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",-0.0757412691626339,5.24315140934603
+"Zhao_2022","CON","Ileum","Control","Unchallenged control","",0.187787548209829,5.68111139351865
+"Zhao_2022","ANT","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.328557296334995,5.91505740851459
+"Zhao_2022","CSB","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.778727327321894,6.66319744728445
+"Zhao_2022","CON","","Control","Unchallenged control","",-0.370611943403011,4.75310422167638
+"Zhao_2022","ANT","","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.375487600627468,5.99305113811912
+"Zhao_2022","CSB","","Non_Disruptive_Additive","Non-disruptive additive","Organic acid",0.151046986151289,5.6200520523123
+"Zhao_2023a","NC","Serum","Control","Unchallenged control","",-2.05329894174398,1.95663748794797
+"Zhao_2023a","LD","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.23231992870436,5.75512000043691
+"Zhao_2023a","MD","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.94262973680676,6.93558775882442
+"Zhao_2023a","HD","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",2.00216181654379,8.69642992211681
+"Zhao_2023a","NC","Serum","Control","Unchallenged control","",-2.33115220647638,1.49487162629452
+"Zhao_2023a","LD","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.668020041975791,4.25884007461861
+"Zhao_2023a","MD","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.294845605789158,5.85903176545553
+"Zhao_2023a","HD","Serum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.58051410235207,7.99569127776268
+"Zhao_2023a","NC","Duodenum","Control","Unchallenged control","",-1.11726902066514,3.51223073770398
+"Zhao_2023a","LD","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",4.05560009713195,10
+"Zhao_2023a","MD","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",3.25682602493174,10
+"Zhao_2023a","HD","Duodenum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.05802367889606,7.12736158285983
+"Zhao_2023a","NC","Jejunum","Control","Unchallenged control","",-1.15260045585632,3.45351323215218
+"Zhao_2023a","LD","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-1.23254097032705,3.32065965355144
+"Zhao_2023a","MD","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.355993097656308,4.77739936144775
+"Zhao_2023a","HD","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-1.55268271266252,2.78861433947837
+"Zhao_2023a","NC","Ileum","Control","Unchallenged control","",-1.33497586666383,3.15042253859118
+"Zhao_2023a","LD","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.815683693418605,4.0134370439612
+"Zhao_2023a","MD","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.00230018820414663,5.36520354381427
+"Zhao_2023a","HD","Ileum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.806403795505845,4.02885935710144
+"Zhao_2023a","NC","Cecum","Control","Unchallenged control","",-1.48931761835228,2.893921136579
+"Zhao_2023a","LD","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",0.352556548770735,5.95494189751169
+"Zhao_2023a","MD","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",-0.309270030507294,4.85504868250912
+"Zhao_2023a","HD","Cecum","Non_Disruptive_Additive","Non-disruptive additive","Phytogenic or plant extract",1.36834786002629,7.64309103822367
+"Zhao_2023b","Ctr","Jejunum","Control","Unchallenged control","",-0.761972333217951,4.10270024749966
+"Zhao_2023b","Ant","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.459134193711706,6.13206386905506
+"Zhao_2023b","GOD300","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Enzyme",-0.654283543994688,4.28166883580828
+"Zhao_2023b","GOD600","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Enzyme",-0.624029171034914,4.33194874384538
+"Zhao_2023b","GOD1200","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Enzyme",0.192323082533221,5.68864902283863
+"Zhao_2023b","Ctr","Jejunum","Control","Unchallenged control","",-0.738615240939185,4.14151752701664
+"Zhao_2023b","Ant","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Antibiotic growth promoter",0.221172394877452,5.73659385294734
+"Zhao_2023b","GOD300","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Enzyme",1.04804120831975,7.11077166036409
+"Zhao_2023b","GOD600","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Enzyme",0.347357842742801,5.94630213950567
+"Zhao_2023b","GOD1200","Jejunum","Non_Disruptive_Additive","Non-disruptive additive","Enzyme",0.626065287948661,6.40948756836383
+"Zhou_2026","CON","Cecum","Control","Unchallenged control","",0.380279702538004,6.00101515851665
+"Zhou_2026","PM","Cecum","Pathogen_Challenge","Environmental challenge","Particulate matter",-0.913370163914701,3.85109136389889
+"Zhou_2026","RA","Cecum","Challenged_And_Treated","Challenged and treated","Environmental",0.550369519518725,6.28368835644443

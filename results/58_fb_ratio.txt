@@ -1,0 +1,32 @@
+
+==============================================================================
+Phylum assignment
+==============================================================================
+matched: 72 of 115 genera
+lab
+         Actinomycetota               Bacillota            Bacteroidota 
+                      5                      44                       9 
+       Campylobacterota        Deferribacterota          Pseudomonadota 
+                      2                       1                       7 
+           Synergistota Thermodesulfobacteriota       Verrucomicrobiota 
+                      1                       2                       1 
+abundance covered: 49.5%
+genus-unclassified abundance: 29.6%  <- cannot be assigned a phylum here
+runs with both phyla present: 1464 of 2064 
+
+arms with both F:B and GHI: 139 studies: 40 
+F:B log-ratio: median 0.68, IQR 0.33 to 1.06
+
+==============================================================================
+F:B versus GHI
+==============================================================================
+within-study Spearman rho = -0.0736, permutation p = 0.4423 (n = 139 arms)
+
+==============================================================================
+F:B versus treatment class
+==============================================================================
+Additive vs control      k = 25  mean delta log(F:B) = +0.049  p = 1.0000
+Control vs challenged    k = 14  mean delta log(F:B) = +0.111  p = 0.5416
+
+Interventions that moved the GHI by +0.82 SD moved the F:B ratio by 0.005-0.041
+log units. The ratio does not respond to what changes gut health.

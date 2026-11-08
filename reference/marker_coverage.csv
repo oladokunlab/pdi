@@ -1,0 +1,23 @@
+domain,marker,samples,studies
+Morphology,VH_um,311,35
+Morphology,CD_um,323,35
+Barrier,ZO1,121,18
+Barrier,Ocln,126,19
+Barrier,Cldn1,123,20
+Barrier,MUC2,91,15
+Inflammation,IL6,143,23
+Inflammation,TNFa,126,20
+Inflammation,IL1b,133,20
+Anti_Inflammatory,IL10,108,18
+SCFA,Ace,75,15
+SCFA,Prop,74,15
+SCFA,Buty,75,15
+Performance,BWG_g,116,14
+Performance,FCR,229,29
+Immunoglobulin_Systemic,IgG,76,13
+Immunoglobulin_Systemic,IgM,71,12
+Immunoglobulin_Systemic,IgA_serum,79,14
+not scored,IFNg,64,10
+not scored,sIgA,55,8
+not scored,IgY,8,2
+"eligible, too sparse",FITC,0,0

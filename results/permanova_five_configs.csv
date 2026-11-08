@@ -1,0 +1,6 @@
+"config","arms","studies","GHI_R2","GHI_p","Age_R2","Age_p"
+"A 84 dense (published)",141,41,0.00278,0.3497,0.1001,1e-04
+"B 115 restored, same samples",141,41,0.00157,0.2352,0.13932,1e-04
+"C 115 restored, all samples",141,41,0.00149,0.2983,0.13688,1e-04
+"D A, organ-matched",58,19,0.00535,0.7461,0.0792,1e-04
+"E C, organ-matched",58,19,0.00427,0.6266,0.08345,1e-04

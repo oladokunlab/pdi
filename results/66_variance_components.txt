@@ -1,0 +1,26 @@
+=== Variance components and clustered inference for the GHI ===
+Input: $PDI_ROOT/r_analysis/ghi/ghi_scores_pca.tsv
+Scored groups: 529 in 51 studies
+
+--- 1. Control groups, random intercept for study (REML) ---
+control groups          : 150 in 51 studies
+control mean (SD)       : -0.222 (0.903)
+between-study variance  : 0.531
+within-study variance   : 0.373
+study share (ICC)       : 58.7%
+control groups per study: 2.94
+design effect           : 2.14
+
+--- 2. Paired within-study contrast, control minus challenged ---
+studies                 : 26
+mean difference         : +0.791
+SE                      : 0.309
+t (df)                  : 2.56 (25)
+P (two-sided)           : 0.017
+
+--- 3. Pooled group-level contrast, control minus challenged ---
+groups                  : 217 (150 control, 67 challenged) in 51 studies
+estimate                : +0.463
+naive SE                : 0.135
+clustered SE (CR1)      : 0.223
+z, P (clustered)        : 2.08, 0.037

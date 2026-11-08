@@ -1,0 +1,72 @@
+=== Class ordination and PERMANOVA (Aitchison, V3-V4, batch-adjusted) ===
+
+Runs: 1578   Studies: 41   Classes: 8   Genera: 84
+Permutations: 9999, blocked within Study_ID
+
+Replaces merged/braycurtis_Intervention_Class_permanova.qzv and
+merged/braycurtis_PCoA_Group_permanova.qzv. See the header of this script
+for why those two are retired rather than relabelled.
+
+Excluded, neither for quality reasons:
+  Jansseune_2024: sequencing is diet-level only: Standard diet and Challenge diet each pool three treatment arms, so assigning a class would place additive birds in the control stratum
+  Massacci_2019: class is age-dependent (d21 faecal samples are pre-challenge, d40 post-challenge) and no sequencing-side table carries Age_d
+
+--- variance explained by the ordination axes ---
+  PC1 17.48%   PC2 9.12%   PC3 4.69%
+
+--- PERMANOVA ---
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Blocks:  factor(d$Study_ID) 
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = D ~ Class, data = d, permutations = ctl, by = "terms")
+           Df SumOfSqs      R2      F Pr(>F)  
+Class       7    19643 0.04149 9.7075 0.0124 *
+Residual 1570   453834 0.95851                
+Total    1577   473477 1.00000                
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Blocks:  factor(d$Study_ID) 
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = D ~ Segment, data = d, permutations = ctl, by = "terms")
+           Df SumOfSqs      R2      F Pr(>F)    
+Segment     2     7427 0.01569 12.549  1e-04 ***
+Residual 1575   466050 0.98431                  
+Total    1577   473477 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+--- betadisper (homogeneity of multivariate dispersion) ---
+PERMANOVA cannot separate a centroid shift from a dispersion difference.
+A significant betadisper means the classes differ in spread as well as, or
+instead of, in location, and the PERMANOVA must be read with that in mind.
+
+Permutation test for homogeneity of multivariate dispersions
+Permutation: free
+Number of permutations: 9999
+
+Response: Distances
+            Df Sum Sq Mean Sq      F N.Perm Pr(>F)    
+Groups       7 1121.6 160.229 29.992   9999  1e-04 ***
+Residuals 1570 8387.4   5.342                         
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+--- runs per class ---
+                     Class     N
+                    <char> <int>
+1: Non-disruptive additive   734
+2:    Unchallenged control   461
+3:  Challenged and treated   165
+4:    Infectious challenge   115
+5:         Toxin challenge    50
+6:    Antibiotic challenge    21
+7:       Dietary challenge    18
+8: Environmental challenge    14

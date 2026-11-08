@@ -1,0 +1,38 @@
+guild genera present: 7 of 14 
+  Subdoligranulum
+  Faecalibacterium
+  Butyricicoccus
+  Blautia
+  Shuttleworthia
+  Oscillibacter
+  Anaerostipes 
+
+==============================================================================
+Guild log-ratio versus measured caecal SCFA
+==============================================================================
+Butyrate    rho = +0.530  p = 0.0049   (33 arms, 10 studies)
+Acetate     rho = +0.269  p = 0.1972   (33 arms, 10 studies)
+Propionate  rho = -0.082  p = 0.7032   (32 arms, 10 studies)
+
+
+==============================================================================
+Butyrate: leave-one-study-out
+==============================================================================
+  drop Bernard_2024     rho = +0.479
+  drop Biagi_2020       rho = +0.513
+  drop Cao_2020         rho = +0.629
+  drop Ding_2025        rho = +0.478
+  drop Melaku_2026      rho = +0.507
+  drop Wu_2021b         rho = +0.509
+  drop Yue_2026         rho = +0.529
+  drop Zhang_2022       rho = +0.632
+  drop Zhang_2023       rho = +0.515
+  drop Zhao_2023a       rho = +0.500
+direction retained in 10 of 10 folds
+       scfa     rho      p arms studies   BH_q
+   Butyrate  0.5301 0.0049   33      10 0.0147
+    Acetate  0.2689 0.1972   33      10 0.2958
+ Propionate -0.0819 0.7032   32      10 0.7032
+
+The community predicts what it produces. On the same arms, the same guild
+against the GHI gives rho = +0.233, p = 0.267.

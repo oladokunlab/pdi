@@ -1,0 +1,80 @@
+families found: 5 -- Guild ratios; Displacement couplings; Caecal SCFA guild; Axis vs coverage; Unsupervised axis by target 
+
+==============================================================================
+Benjamini-Hochberg within each family
+==============================================================================
+
+-- Guild ratios ( 14 tests )
+       family                                            test      p  BH_q
+ Guild ratios LIT: lactic acid / opportunist AD            27 0.0079 0.111
+ Guild ratios TRAIT: anaerobe / facultative AD             27 0.0198 0.139
+ Guild ratios LIT: lactic acid / opportunist CH            15 0.0815 0.321
+ Guild ratios LIT: butyrate / lactic acid CH               15 0.1026 0.321
+ Guild ratios LIT: butyrate / opportunist AD               27 0.1145 0.321
+ Guild ratios LIT: mucin degr / butyrate CH                15 0.2300 0.480
+ Guild ratios TRAIT: spore / non-spore CH                  15 0.2398 0.480
+ Guild ratios LIT: butyrate / opportunist CH               15 0.3655 0.640
+ Guild ratios TRAIT: anaerobe / facultative CH             15 0.5534 0.835
+ Guild ratios LIT: butyrate / lactic acid AD               27 0.5962 0.835
+ Guild ratios TRAIT: anaerobe / aerobe AD                  27 0.7918 0.852
+ Guild ratios TRAIT: spore / non-spore AD                  27 0.8048 0.852
+ Guild ratios TRAIT: anaerobe / aerobe CH                  15 0.8107 0.852
+ Guild ratios LIT: mucin degr / butyrate AD                27 0.8521 0.852
+ survives
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+    FALSE
+
+-- Displacement couplings ( 7 tests )
+                 family                    test      p  BH_q survives
+ Displacement couplings       Anti_Inflammatory 0.0154 0.108    FALSE
+ Displacement couplings             Performance 0.1499 0.402    FALSE
+ Displacement couplings                 Barrier 0.2159 0.402    FALSE
+ Displacement couplings Immunoglobulin_Systemic 0.2793 0.402    FALSE
+ Displacement couplings              Morphology 0.2878 0.402    FALSE
+ Displacement couplings            Inflammation 0.3447 0.402    FALSE
+ Displacement couplings                    SCFA 0.6261 0.626    FALSE
+
+-- Caecal SCFA guild ( 3 tests )
+            family       test      p   BH_q survives
+ Caecal SCFA guild   Butyrate 0.0049 0.0147     TRUE
+ Caecal SCFA guild    Acetate 0.1972 0.2958    FALSE
+ Caecal SCFA guild Propionate 0.7032 0.7032    FALSE
+
+-- Axis vs coverage ( 8 tests )
+           family           test      p  BH_q survives
+ Axis vs coverage  Combined >= 1 0.0632 0.294    FALSE
+ Axis vs coverage Biomarker >= 1 0.0898 0.294    FALSE
+ Axis vs coverage Biomarker >= 3 0.1450 0.294    FALSE
+ Axis vs coverage  Combined >= 2 0.1632 0.294    FALSE
+ Axis vs coverage Biomarker >= 2 0.2002 0.294    FALSE
+ Axis vs coverage  Combined >= 3 0.2206 0.294    FALSE
+ Axis vs coverage Biomarker >= 4 0.3243 0.371    FALSE
+ Axis vs coverage  Combined >= 4 0.4951 0.495    FALSE
+
+-- Unsupervised axis by target ( 4 tests )
+                      family        test      p  BH_q survives
+ Unsupervised axis by target    Combined 0.0650 0.170    FALSE
+ Unsupervised axis by target   Biomarker 0.0852 0.170    FALSE
+ Unsupervised axis by target  Morphology 0.2042 0.272    FALSE
+ Unsupervised axis by target Performance 0.4939 0.494    FALSE
+
+==============================================================================
+Summary
+==============================================================================
+nominally significant (p <= 0.05): 4 
+surviving BH within family (q <= 0.05): 1 
+
+Report both values throughout. Findings that do not survive are labelled
+exploratory; they are not deleted.

@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived indices, please cite the accompanying publication."
+title: "Gut health and dysbiosis indices for chickens: analysis code"
+version: "1.0.0"
+date-released: 2026-11-08
+abstract: >-
+  Analysis code for a meta-analysis of gut health biomarkers and 16S rRNA gene
+  sequencing data from chicken experiments. Builds a seven-domain gut health
+  index from published biomarkers and tests whether community composition can
+  predict it as a gut dysbiosis index.
+type: software
+authors:
+  - family-names: "Bin Harun"
+    given-names: "Anas"
+    affiliation: "Department of Poultry Science, Texas A&M University"
+    orcid: "https://orcid.org/0000-0002-1077-1103"
+  - family-names: "Agada"
+    given-names: "Samuel"
+    affiliation: "Department of Poultry Science, Texas A&M University"
+    orcid: "https://orcid.org/0009-0001-8730-6859"
+  - family-names: "Arroyo"
+    given-names: "Jesús"
+    affiliation: "Department of Statistics, Texas A&M University"
+    orcid: "https://orcid.org/0000-0003-3071-9043"
+  - family-names: "Xu"
+    given-names: "Ziteng"
+    affiliation: "Department of Poultry Science, Texas A&M University"
+    orcid: "https://orcid.org/0000-0003-1932-5828"
+  - family-names: "Oladokun"
+    given-names: "Samson"
+    affiliation: "Department of Poultry Science, Texas A&M University"
+    orcid: "https://orcid.org/0000-0002-3056-8006"
+keywords:
+  - chicken
+  - gut health index
+  - dysbiosis
+  - 16S rRNA
+  - meta-analysis
+license: MIT
+repository-code: "https://github.com/oladokunlab/pdi"
+identifiers:
+  - type: other
+    value: "PROSPERO CRD420261384137"
+    description: "PROSPERO registration"

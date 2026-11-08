@@ -1,0 +1,23 @@
+arms: 88  studies: 37 
+
+==============================================================================
+Composite GHI displacement
+==============================================================================
+unsigned displacement : coef +0.0401  p = 0.5082
+signed challenge axis : coef -0.2000  p = 0.0182
+
+How far the community moved says nothing; which direction it moved does.
+
+==============================================================================
+Per domain, signed axis as predictor
+==============================================================================
+                  domain n_arms n_studies    coef      p  BH_q
+       Anti_Inflammatory     33        13 -0.4280 0.0154 0.108
+             Performance     63        24 -0.2059 0.1499 0.402
+                 Barrier     48        18 -0.2542 0.2159 0.402
+ Immunoglobulin_Systemic     28        11 -0.3064 0.2793 0.402
+              Morphology     61        26 -0.0540 0.2878 0.402
+            Inflammation     53        21 -0.2134 0.3447 0.402
+                    SCFA     23        11  0.0858 0.6261 0.626
+
+6 of 7 domains share the negative sign.

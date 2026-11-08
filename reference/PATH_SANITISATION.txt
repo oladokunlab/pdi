@@ -1,0 +1,25 @@
+PATH SANITISATION
+=================
+
+Date: 2026-09-27
+
+The analysis outputs in r_analysis/ included log files written by
+MaAsLin2 and by the project's own R configuration, which record the
+absolute path of the repository root on the machine the analysis ran
+on. That path contains the account name of the person who ran it.
+
+In the files listed below, the repository-root prefix has been
+replaced by the literal string $PDI_ROOT. Nothing else was changed: no
+numeric value, no result table, and no log line was removed. The
+unmodified originals are retained outside the release, under
+pdi_backups/path_sanitised/, preserving this layout.
+
+The same substitution is applied to the code release by the release
+builder's "removing hardcoded personal paths" step; this note covers
+the analysis outputs, where it was applied after the fact.
+
+Files modified (1), with the number of substitutions in each:
+
+  r_analysis/gdi/maaslin2_age_class_seg/maaslin2.log              12
+
+Total substitutions: 12

@@ -1,0 +1,43 @@
+marker workbook: 566 rows x 103 columns
+
+==============================================================================
+Internal consistency by domain
+==============================================================================
+Morphology                 k = 2  n = 311  standardised alpha = -2.183
+Barrier                    k = 4  n =  80  standardised alpha = +0.668
+Inflammation               k = 3  n =  85  standardised alpha = +0.729
+Anti_Inflammatory          only 1 marker(s) -- alpha undefined
+SCFA                       k = 3  n =  74  standardised alpha = +0.889
+Performance                k = 2  n = 116  standardised alpha = -0.095
+Immunoglobulin_Systemic    k = 3  n =  60  standardised alpha = +0.773
+
+==============================================================================
+Attenuation ceiling
+==============================================================================
+Using the reliable domains only, the maximum observable correlation between
+a perfectly measured predictor and the index is sqrt(alpha):
+  Barrier                    ceiling rho = 0.82
+  Inflammation               ceiling rho = 0.85
+  SCFA                       ceiling rho = 0.94
+  Immunoglobulin_Systemic    ceiling rho = 0.88
+
+Observed microbiome-to-GHI correlations are 0.00-0.14.
+Outcome measurement error does NOT explain the null.
+
+==============================================================================
+Why two domains give negative alpha
+==============================================================================
+VH_um vs CD_um: r = +0.522 (n = 311)
+BWG_g vs FCR: r = +0.046 (n = 116)
+
+Both are DIFFERENCE scores, for which alpha is undefined, but for different
+reasons and they should not be described together:
+  Morphology  VH_um and CD_um correlate strongly and positively (+0.52), so
+              their difference is dominated by measurement noise. This is why
+              the morphology domain contributes least to the composite (r =
+              0.646) despite having the most observations (n = 323).
+  Performance BWG_g and FCR are essentially uncorrelated (+0.05). The two
+              markers carry near-independent information; alpha is slightly
+              negative only because direction correction flips the sign.
+NOTE: use BWG_g (weight GAIN), the marker named in the index definition.
+BW_g (absolute weight) correlates with FCR at +0.49 and is a different column.
